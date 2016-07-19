@@ -20,4 +20,6 @@ namespace gitp {
 		void brake() {}
 	};
 }
+
+// new function added after v0.1
 #endif
